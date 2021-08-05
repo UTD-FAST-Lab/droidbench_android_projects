@@ -1,4 +1,4 @@
-#Sat Jan 30 02:18:49 CST 2021
-base.0=D\:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\LocationLeak3\\LocationLeak3_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Thu Aug 05 04:10:57 CDT 2021
+base.0=/home/dakota/documents/not_broken_droidbench/droidbench_android_projects/LocationLeak3/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
