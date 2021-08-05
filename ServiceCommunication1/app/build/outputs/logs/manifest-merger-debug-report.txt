@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:22:1-47:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:22:1-47:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:22:1-47:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:22:1-47:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:22:1-47:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:22:1-47:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:22:1-47:12
+	package
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:23:5-43
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:25:5-30
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:22:11-69
+	android:versionCode
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:24:5-28
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:29:5-44:19
+	android:label
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:30:13-46
+	android:hardwareAccelerated
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:31:13-47
+activity#edu.mit.icc_service_messages.ActivityMessenger
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:34:9-40:20
+	android:label
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:34:81-114
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:34:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:37:27-73
+category#android.intent.category.LAUNCHER
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:38:27-74
+service#edu.mit.icc_service_messages.MessengerService
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:42:9-114
+	android:exported
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:42:79-103
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:42:18-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:46:1-71
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml:46:18-68
+uses-sdk
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ServiceCommunication1\app\src\main\AndroidManifest.xml

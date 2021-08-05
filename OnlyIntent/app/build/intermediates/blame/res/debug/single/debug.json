@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_activity2.xml.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\src\\main\\res\\menu\\activity_activity2.xml"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_activity2.xml.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\src\\main\\res\\layout\\activity_activity2.xml"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyIntent\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

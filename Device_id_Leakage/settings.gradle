@@ -1,0 +1,4 @@
+include ':DeviceId_Broadcast1'
+include ':DeviceId_contentProvider1'
+include ':DeviceId_OrderedIntent1'
+include ':DeviceId_Service1'

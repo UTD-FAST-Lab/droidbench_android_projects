@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.ecspride"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:minSdkVersion="11" />
+7-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.SEND_SMS" />
+9-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:8:5-66
+9-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:8:22-64
+10    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+10-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:9:2-71
+10-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:9:19-69
+11
+12    <application
+12-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:11:5-25:19
+13        android:allowBackup="true"
+13-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:12:9-35
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_launcher"
+15-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:13:9-45
+16        android:label="@string/app_name"
+16-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:14:9-41
+17        android:theme="@android:style/Theme" >
+17-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:15:9-45
+18        <activity
+18-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:16:9-24:20
+19            android:name="de.ecspride.MainActivity"
+19-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:17:13-52
+20            android:label="@string/app_name" >
+20-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:18:13-45
+21            <intent-filter>
+21-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:19:13-23:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:20:17-69
+22-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:20:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:22:17-77
+24-->D:\Local_androidTAEnvironment\Projects_to_be\SimpleAliasing1\app\src\main\AndroidManifest.xml:22:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>

@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:7:15-44
+	android:minSdkVersion
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:9:5-41:19
+	android:label
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:13:9-40
+activity#edu.mit.icc_action_string_operations.OutFlowActivity
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:15:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:20:27-74
+activity#edu.mit.icc_action_string_operations.InFlowActivity
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:24:9-31:20
+	android:label
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:25:13-79
+intent-filter#action:name:edu.mit.icc_action_string_operations.ACTION+category:name:android.intent.category.DEFAULT
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:27:13-30:29
+action#edu.mit.icc_action_string_operations.ACTION
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:28:17-86
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:28:25-83
+category#android.intent.category.DEFAULT
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:29:27-73
+activity#edu.mit.icc_action_string_operations.IsolateActivity
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:label
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:34:13-80
+intent-filter#action:name:edu.mit.icc_action_string_operations.EDIT+category:name:android.intent.category.DEFAULT
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:36:4-39:20
+action#edu.mit.icc_action_string_operations.EDIT
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:37:6-73
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:37:14-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:43:5-75
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\ActivityCommunication21\app\src\main\AndroidManifest.xml:43:22-72

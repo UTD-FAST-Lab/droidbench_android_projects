@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.ecspride"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:minSdkVersion="14" />
+7-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+9-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:7:2-72
+9-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:7:19-69
+10    <uses-permission android:name="android.permission.SEND_SMS" />
+10-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:8:2-64
+10-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:8:19-61
+11
+12    <application
+12-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:10:5-23:19
+13        android:allowBackup="true"
+13-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:11:9-35
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_launcher"
+15-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:12:9-45
+16        android:label="@string/app_name" >
+16-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:13:9-41
+17        <activity
+17-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:14:9-22:20
+18            android:name="de.ecspride.MainActivity"
+18-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:15:13-52
+19            android:label="@string/app_name" >
+19-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:16:13-45
+20            <intent-filter>
+20-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:17:13-21:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:18:17-69
+21-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:18:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:20:17-77
+23-->D:\Local_androidTAEnvironment\AndroidTAEnvironment\APKReductionDir\test_resources\MinimizedFlows\TimerTask1\TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback\source_code\app\src\main\AndroidManifest.xml:20:27-74
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>

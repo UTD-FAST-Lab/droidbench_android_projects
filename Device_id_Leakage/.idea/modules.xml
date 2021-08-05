@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeviceId_Broadcast1/DeviceId_Broadcast1.iml" filepath="$PROJECT_DIR$/.idea/modules/DeviceId_Broadcast1/DeviceId_Broadcast1.iml" group="Device_id_Leakage/DeviceId_Broadcast1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeviceId_OrderedIntent1/DeviceId_OrderedIntent1.iml" filepath="$PROJECT_DIR$/.idea/modules/DeviceId_OrderedIntent1/DeviceId_OrderedIntent1.iml" group="Device_id_Leakage/DeviceId_OrderedIntent1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeviceId_Service1/DeviceId_Service1.iml" filepath="$PROJECT_DIR$/.idea/modules/DeviceId_Service1/DeviceId_Service1.iml" group="Device_id_Leakage/DeviceId_Service1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeviceId_contentProvider1/DeviceId_contentProvider1.iml" filepath="$PROJECT_DIR$/.idea/modules/DeviceId_contentProvider1/DeviceId_contentProvider1.iml" group="Device_id_Leakage/DeviceId_contentProvider1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Device_id_Leakage.iml" filepath="$PROJECT_DIR$/.idea/modules/Device_id_Leakage.iml" group="Device_id_Leakage" />
+    </modules>
+  </component>
+</project>

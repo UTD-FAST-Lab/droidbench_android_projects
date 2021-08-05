@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Local_androidTAEnvironment\\Projects_to_be\\SinkInNativeCode\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\SinkInNativeCode\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "56,105,150",
+                        "endColumns": "48,44,50",
+                        "endOffsets": "100,145,196"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,104,149",
+                        "endColumns": "48,44,50",
+                        "endOffsets": "99,144,195"
+                    }
+                },
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\SinkInNativeCode\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "5,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "200,491",
+                        "endLines": "11,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "486,646"
+                    }
+                }
+            ]
+        }
+    ]
+}

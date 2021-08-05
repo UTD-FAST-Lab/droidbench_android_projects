@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyTelephony_Reverse\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyTelephony_Reverse\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "6,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "273,564",
+                        "endLines": "12,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "559,719"
+                    }
+                },
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\OnlyTelephony_Reverse\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "56,107,160,211",
+                        "endColumns": "50,52,50,62",
+                        "endOffsets": "102,155,206,269"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,106,159,210",
+                        "endColumns": "50,52,50,62",
+                        "endOffsets": "101,154,205,268"
+                    }
+                }
+            ]
+        }
+    ]
+}

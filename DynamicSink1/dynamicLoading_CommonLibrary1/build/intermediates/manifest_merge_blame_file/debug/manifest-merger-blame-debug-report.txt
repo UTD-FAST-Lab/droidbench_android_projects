@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="edu.wayne.lib"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicSink1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:7:5-47
+8        android:minSdkVersion="8"
+8-->D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicSink1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:7:5-47
+9        android:targetSdkVersion="19" />
+9-->D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicSink1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:7:15-44
+10
+11    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+11-->D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicSink1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:9:5-75
+11-->D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicSink1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:9:22-72
+12
+13    <application />
+13-->D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicSink1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:11:5-20
+14
+15</manifest>

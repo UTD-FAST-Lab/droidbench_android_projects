@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\Loop1\\Loop1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\Loop1\\Loop1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,5,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "59,155,103",
+                        "endColumns": "42,52,50",
+                        "endOffsets": "97,203,149"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,98,151",
+                        "endColumns": "42,52,50",
+                        "endOffsets": "93,146,197"
+                    }
+                },
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\Loop1\\Loop1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "5,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "202,493",
+                        "endLines": "11,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "488,648"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DynamicSource1.iml" filepath="$PROJECT_DIR$/.idea/modules/DynamicSource1.iml" group="DynamicSource1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/dynamicLoading_CommonLibrary1.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/dynamicLoading_CommonLibrary1.iml" group="DynamicSource1/dynamicLoading_CommonLibrary1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicLoading_DynamicSource1/dynamicLoading_DynamicSource1.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicLoading_DynamicSource1/dynamicLoading_DynamicSource1.iml" group="DynamicSource1/dynamicLoading_DynamicSource1" />
+    </modules>
+  </component>
+</project>

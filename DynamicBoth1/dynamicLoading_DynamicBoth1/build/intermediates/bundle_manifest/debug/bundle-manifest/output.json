@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "edu.wayne.cs",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "dynamicLoading_DynamicBoth1-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "edu.wayne.cs",
+        "split": "",
+        "minSdkVersion": "14"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Library2.iml" filepath="$PROJECT_DIR$/.idea/modules/Library2.iml" group="Library2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidSpecific_Library1/androidSpecific_Library1.iml" filepath="$PROJECT_DIR$/.idea/modules/androidSpecific_Library1/androidSpecific_Library1.iml" group="Library2/androidSpecific_Library1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidSpecific_Library2/androidSpecific_Library2.iml" filepath="$PROJECT_DIR$/.idea/modules/androidSpecific_Library2/androidSpecific_Library2.iml" group="Library2/androidSpecific_Library2" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\PrivateDataLeak1\\PrivateDataLeak1_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\PrivateDataLeak1\\PrivateDataLeak1_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "59,117,169",
+                        "endColumns": "56,50,37",
+                        "endOffsets": "111,163,202"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,112,163",
+                        "endColumns": "56,50,37",
+                        "endOffsets": "107,158,196"
+                    }
+                },
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\PrivateDataLeak1\\PrivateDataLeak1_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "5,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "201,492",
+                        "endLines": "11,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "487,647"
+                    }
+                }
+            ]
+        }
+    ]
+}

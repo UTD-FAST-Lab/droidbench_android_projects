@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\Loop2\\Loop2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\Loop2\\Loop2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "375"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

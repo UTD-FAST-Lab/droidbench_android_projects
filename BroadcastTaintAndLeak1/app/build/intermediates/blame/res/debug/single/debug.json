@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stop.png.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete.png.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play.png.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_simple_list_item.xml.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\layout\\my_simple_list_item.xml"
+    },
+    {
+        "merged": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_record.png.flat",
+        "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\BroadcastTaintAndLeak1\\app\\src\\main\\res\\drawable\\record.png"
+    }
+]

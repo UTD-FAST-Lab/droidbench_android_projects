@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Local_androidTAEnvironment\\Projects_to_be\\PlayStore2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\PlayStore2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "776,834",
+                        "endColumns": "57,55",
+                        "endOffsets": "829,885"
+                    }
+                },
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\PlayStore2\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "158,56,105",
+                        "endColumns": "52,48,52",
+                        "endOffsets": "206,100,153"
+                    },
+                    "to": {
+                        "startLines": "13,14,32",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "958,1011,3277",
+                        "endColumns": "52,48,52",
+                        "endOffsets": "1006,1055,3325"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dakot\\.gradle\\caches\\transforms-2\\files-2.1\\d3d1b70640c40e5fdb1cd3e765143b1b\\play-services-basement-10.2.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "276,439",
+                        "endColumns": "63,166",
+                        "endOffsets": "339,605"
+                    },
+                    "to": {
+                        "startLines": "12,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "890,1984",
+                        "endColumns": "67,166",
+                        "endOffsets": "953,2146"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dakot\\.gradle\\caches\\transforms-2\\files-2.1\\7d0f6efbd53e959d31844b2a340c5985\\play-services-base-10.2.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,32,45",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "215,301,377,463,549,625,702,778,951,1052,1233,1354,1457,1637,1756,1855,2043,2144,2325,2446,2621,2765,2824,2882,3052,3363",
+                        "endLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,44,63",
+                        "endColumns": "85,75,85,85,75,76,75,75,100,180,120,102,179,118,98,187,100,180,120,174,143,58,57,74,20,20",
+                        "endOffsets": "300,376,462,548,624,701,777,853,1051,1232,1353,1456,1636,1755,1854,2042,2143,2324,2445,2620,2764,2823,2881,2956,3362,3775"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,15,16,17,18,19,20,21,23,24,25,26,27,28,29,30,31,33,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,195,275,365,455,535,616,696,1060,1165,1346,1471,1578,1758,1881,2151,2339,2444,2625,2750,2925,3073,3136,3198,3330,3645",
+                        "endLines": "2,3,4,5,6,7,8,9,15,16,17,18,19,20,21,23,24,25,26,27,28,29,30,31,45,64",
+                        "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,102,187,104,180,124,174,147,62,61,78,20,20",
+                        "endOffsets": "190,270,360,450,530,611,691,771,1160,1341,1466,1573,1753,1876,1979,2334,2439,2620,2745,2920,3068,3131,3193,3272,3640,4057"
+                    }
+                }
+            ]
+        }
+    ]
+}

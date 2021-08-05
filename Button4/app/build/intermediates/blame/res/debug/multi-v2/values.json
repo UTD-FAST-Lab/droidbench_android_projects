@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Local_androidTAEnvironment\\Projects_to_be\\Button4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\Button4\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,5,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "56,152,101",
+                        "endColumns": "44,41,50",
+                        "endOffsets": "96,189,147"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,142",
+                        "endColumns": "44,41,50",
+                        "endOffsets": "95,137,188"
+                    }
+                },
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\Button4\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "5,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "193,484",
+                        "endLines": "11,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "479,639"
+                    }
+                }
+            ]
+        }
+    ]
+}

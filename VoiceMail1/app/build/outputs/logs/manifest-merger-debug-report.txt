@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:8:5-22:19
+	android:label
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:12:9-45
+activity#com.example.newedtester.MainActivity
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:19:27-74
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:24:1-71
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:24:18-68
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:25:1-62
+	android:name
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml:25:18-60
+uses-sdk
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml
+INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Local_androidTAEnvironment\Projects_to_be\VoiceMail1\app\src\main\AndroidManifest.xml

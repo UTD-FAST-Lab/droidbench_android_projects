@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Local_androidTAEnvironment\\Projects_to_be\\SimpleAliasing1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Local_androidTAEnvironment\\Projects_to_be\\SimpleAliasing1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "162,56,109",
+                        "endColumns": "52,52,52",
+                        "endOffsets": "210,104,157"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,161",
+                        "endColumns": "52,52,52",
+                        "endOffsets": "103,156,209"
+                    }
+                }
+            ]
+        }
+    ]
+}
