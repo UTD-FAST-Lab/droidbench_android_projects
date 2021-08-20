@@ -1,17 +1,34 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\LocationLeak3\\LocationLeak3_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "/home/dakota/documents/not_broken_droidbench/droidbench_android_projects/LocationLeak3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\LocationLeak3\\LocationLeak3_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "/home/dakota/documents/not_broken_droidbench/droidbench_android_projects/LocationLeak3/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/home/dakota/documents/not_broken_droidbench/droidbench_android_projects/LocationLeak3/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "6,15",
                         "startColumns": "4,4",
-                        "startOffsets": "192,525",
+                        "startOffsets": "186,510",
                         "endLines": "12,17",
                         "endColumns": "12,12",
-                        "endOffsets": "484,682"
+                        "endOffsets": "472,665"
                     },
                     "to": {
                         "startLines": "7,14",
@@ -23,30 +40,13 @@
                     }
                 },
                 {
-                    "source": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\LocationLeak3\\LocationLeak3_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "92,151",
-                        "endColumns": "57,55",
-                        "endOffsets": "145,202"
-                    },
-                    "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,113",
-                        "endColumns": "57,55",
-                        "endOffsets": "108,164"
-                    }
-                },
-                {
-                    "source": "D:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\LocationLeak3\\LocationLeak3_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks\\source_code\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "/home/dakota/documents/not_broken_droidbench/droidbench_android_projects/LocationLeak3/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "4,3,5",
                         "startColumns": "4,4,4",
-                        "startOffsets": "122,59,176",
+                        "startOffsets": "118,56,171",
                         "endColumns": "52,61,52",
-                        "endOffsets": "170,116,224"
+                        "endOffsets": "166,113,219"
                     },
                     "to": {
                         "startLines": "4,5,6",
