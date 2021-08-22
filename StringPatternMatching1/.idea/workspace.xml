@@ -1,63 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ff8be4e9-8516-4b26-9bf8-1e1a34b0e9c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ActivityEventSequence2/ActivityEventSequence2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ActivityEventSequence2/ActivityEventSequence2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ActivityEventSequence2/ActivityEventSequence2_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrappereasy/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ActivityEventSequence2/ActivityEventSequence2_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrappereasy/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../AnonymousClass1/AnonymousClass1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AnonymousClass1/AnonymousClass1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../AnonymousClass1/AnonymousClass1_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AnonymousClass1/AnonymousClass1_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../AnonymousClass1/AnonymousClass1_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AnonymousClass1/AnonymousClass1_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Button2/Button2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/Button2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Button2/Button2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/Button2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Button2/Button2_2_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Button2/Button2_2_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Button2/Button2_2_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Button2/Button2_2_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Button2/Button2_2_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/Button2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Button2/Button2_2_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/Button2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Button2/Button2_3_config_FlowDroid_callbackanalyzerfast_config_FlowDroid_aplength5/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Button2/Button2_3_config_FlowDroid_callbackanalyzerfast_config_FlowDroid_aplength5/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Button2/Button2_3_config_FlowDroid_callbackanalyzerfast_config_FlowDroid_aplength5/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Button2/Button2_3_config_FlowDroid_callbackanalyzerfast_config_FlowDroid_aplength5/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Button2/Button2_3_config_FlowDroid_callbackanalyzerfast_config_FlowDroid_aplength5/source_code/app/src/main/java/de/ecspride/Button2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Button2/Button2_3_config_FlowDroid_callbackanalyzerfast_config_FlowDroid_aplength5/source_code/app/src/main/java/de/ecspride/Button2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../FactoryMethods1/FactoryMethods1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FactoryMethods1/FactoryMethods1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../FactoryMethods1/FactoryMethods1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FactoryMethods1/FactoryMethods1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../FactoryMethods1/FactoryMethods1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/FactoryMethods1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FactoryMethods1/FactoryMethods1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/FactoryMethods1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../FactoryMethods1/FactoryMethods1_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FactoryMethods1/FactoryMethods1_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../FactoryMethods1/FactoryMethods1_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/FactoryMethods1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ImplicitFlow1/ImplicitFlow1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/ImplicitFlow1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ImplicitFlow1/ImplicitFlow1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/ImplicitFlow1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ImplicitFlow1/ImplicitFlow1_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/java/de/ecspride/ImplicitFlow1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ImplicitFlow1/ImplicitFlow1_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/java/de/ecspride/ImplicitFlow1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ImplicitFlow1/ImplicitFlow1_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrappereasy/source_code/app/src/main/java/de/ecspride/ImplicitFlow1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ImplicitFlow1/ImplicitFlow1_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrappereasy/source_code/app/src/main/java/de/ecspride/ImplicitFlow1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../IntentSink1/IntentSink1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntentSink1/IntentSink1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../IntentSink1/IntentSink1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntentSink1/IntentSink1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/LocationLeak2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/LocationLeak2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/LocationLeak2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LocationLeak2/LocationLeak2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/java/de/ecspride/LocationLeak2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Loop2/Loop2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Loop2/Loop2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Loop2/Loop2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Loop2/Loop2_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../NativeIDFunction/NativeIDFunction_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NativeIDFunction/NativeIDFunction_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../NativeIDFunction/NativeIDFunction_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NativeIDFunction/NativeIDFunction_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../NativeIDFunction/NativeIDFunction_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NativeIDFunction/NativeIDFunction_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../NativeIDFunction/NativeIDFunction_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrappereasy/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../NativeIDFunction/NativeIDFunction_0_config_FlowDroid_aplength5_config_FlowDroid_taintwrappereasy/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../PrivateDataLeak2/PrivateDataLeak2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PrivateDataLeak2/PrivateDataLeak2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../PrivateDataLeak2/PrivateDataLeak2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PrivateDataLeak2/PrivateDataLeak2_1_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../StringtoCharArray1/StringToCharArray1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../StringtoCharArray1/StringToCharArray1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../StringtoCharArray1/StringToCharArray1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../StringtoCharArray1/StringToCharArray1_0_config_FlowDroid_aplength5_config_FlowDroid_analyzeframeworks/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/java/de/ecspride/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/java/de/ecspride/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/res/layout/fragment_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/res/menu/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/res/menu/main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/res/values-v11/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/res/values-v14/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TimerTask1/TimerTask1_0_config_FlowDroid_taintwrappernone_config_FlowDroid_taintwrapperdefaultfallback/source_code/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -74,17 +31,7 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="source_code" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="source_code" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="source_code" type="f1a62948:ProjectNode" />
-                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="StringPatternMatching1" type="f1a62948:ProjectNode" />
               </path>
             </expand>
             <select />
@@ -94,20 +41,22 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1nmToCcvvd0jPAitpHU7aLNoreA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.StringPatternMatching1 [assembleDebug]">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -116,12 +65,14 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="app" />
+      <module name="StringPatternMatching1.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
@@ -157,16 +108,46 @@
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringPatternMatching1 [assembleDebug]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assembleDebug" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.StringPatternMatching1 [assembleDebug]" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -179,5 +160,11 @@
       <updated>1611994438563</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="242" width="672" height="677" key="run.anything.popup" timestamp="1629649685825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="242" width="672" height="677" key="run.anything.popup/0.0.1920.1040/-1920.-5.1920.1040@0.0.1920.1040" timestamp="1629649685825" />
   </component>
 </project>
