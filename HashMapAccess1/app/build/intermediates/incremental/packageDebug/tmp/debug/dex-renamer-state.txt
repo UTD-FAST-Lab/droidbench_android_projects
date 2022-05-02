@@ -1,4 +1,0 @@
-#Fri Oct 30 04:34:45 CDT 2020
-base.0=D\:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\HashMapAccess1\\HashMapAccess1_0\\source_code\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

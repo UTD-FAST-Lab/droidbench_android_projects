@@ -1,4 +1,0 @@
-#Tue Feb 23 03:18:03 CST 2021
-base.0=D\:\\Local_androidTAEnvironment\\AndroidTAEnvironment\\APKReductionDir\\test_resources\\MinimizedFlows\\Serialization1\\Serialization1_0_aliasalgoptsbased_aplength5\\source_code\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

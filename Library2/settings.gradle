@@ -1,2 +1,2 @@
 include ':androidSpecific_Library1'
-include ':app'
+include ':Library2'
