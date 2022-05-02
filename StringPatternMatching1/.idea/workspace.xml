@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff8be4e9-8516-4b26-9bf8-1e1a34b0e9c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +55,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle assembleDebug" />
+    </option>
   </component>
   <component name="RunManager" selected="Gradle.StringPatternMatching1 [assembleDebug]">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -162,9 +175,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="616" y="242" width="672" height="677" key="run.anything.popup" timestamp="1629649685825">
+    <state x="477" y="266" key="#PSD" timestamp="1630089243782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="242" width="672" height="677" key="run.anything.popup/0.0.1920.1040/-1920.-5.1920.1040@0.0.1920.1040" timestamp="1629649685825" />
+    <state x="477" y="266" key="#PSD/0.0.1920.1040/-1920.-5.1920.1040@0.0.1920.1040" timestamp="1630089243782" />
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1629650075718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-5.1920.1040@0.0.1920.1040" timestamp="1629650075718" />
+    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1629650075718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-5.1920.1040@0.0.1920.1040" timestamp="1629650075718" />
+    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1629650075718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-5.1920.1040@0.0.1920.1040" timestamp="1629650075718" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1629650075718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-5.1920.1040@0.0.1920.1040" timestamp="1629650075718" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1630088991001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.-5.1920.1040@0.0.1920.1040" timestamp="1630088991001" />
+    <state x="616" y="242" width="672" height="677" key="run.anything.popup" timestamp="1629649974589">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="242" width="672" height="677" key="run.anything.popup/0.0.1920.1040/-1920.-5.1920.1040@0.0.1920.1040" timestamp="1629649974589" />
   </component>
 </project>

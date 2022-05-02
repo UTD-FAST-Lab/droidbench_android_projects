@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DynamicBoth1.iml" filepath="$PROJECT_DIR$/.idea/modules/DynamicBoth1.iml" group="DynamicBoth1" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/dynamicLoading_CommonLibrary1.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/dynamicLoading_CommonLibrary1.iml" group="DynamicBoth1/dynamicLoading_CommonLibrary1" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicLoading_DynamicBoth1/dynamicLoading_DynamicBoth1.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicLoading_DynamicBoth1/dynamicLoading_DynamicBoth1.iml" group="DynamicBoth1/dynamicLoading_DynamicBoth1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DynamicBoth1.iml" filepath="$PROJECT_DIR$/.idea/modules/DynamicBoth1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DynamicBoth1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DynamicBoth1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/DynamicBoth1.dynamicLoading_CommonLibrary1.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/DynamicBoth1.dynamicLoading_CommonLibrary1.iml" />
     </modules>
   </component>
 </project>

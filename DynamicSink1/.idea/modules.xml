@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DynamicSink1.iml" filepath="$PROJECT_DIR$/.idea/modules/DynamicSink1.iml" group="DynamicSink1" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/dynamicLoading_CommonLibrary1.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/dynamicLoading_CommonLibrary1.iml" group="DynamicSink1/dynamicLoading_CommonLibrary1" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicLoading_DynamicSink1/dynamicLoading_DynamicSink1.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicLoading_DynamicSink1/dynamicLoading_DynamicSink1.iml" group="DynamicSink1/dynamicLoading_DynamicSink1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DynamicSink1.iml" filepath="$PROJECT_DIR$/.idea/modules/DynamicSink1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DynamicSink1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DynamicSink1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/DynamicSink1.dynamicLoading_CommonLibrary1.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/DynamicSink1.dynamicLoading_CommonLibrary1.iml" />
     </modules>
   </component>
 </project>

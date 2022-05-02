@@ -1,4 +1,0 @@
-#Fri Jun 25 15:59:21 CDT 2021
-base.0=D\:\\Local_androidTAEnvironment\\droidbench_android_projects\\DynamicSink1\\dynamicLoading_DynamicSink1\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

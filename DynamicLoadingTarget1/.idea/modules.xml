@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DynamicLoadingTarget1.iml" filepath="$PROJECT_DIR$/.idea/modules/DynamicLoadingTarget1.iml" group="DynamicLoadingTarget1" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/dynamicLoading_CommonLibrary1.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/dynamicLoading_CommonLibrary1.iml" group="DynamicLoadingTarget1/dynamicLoading_CommonLibrary1" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicLoading_DynamicLoadingTarget1/dynamicLoading_DynamicLoadingTarget1.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicLoading_DynamicLoadingTarget1/dynamicLoading_DynamicLoadingTarget1.iml" group="DynamicLoadingTarget1/dynamicLoading_DynamicLoadingTarget1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DynamicLoadingTarget1.iml" filepath="$PROJECT_DIR$/.idea/modules/DynamicLoadingTarget1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DynamicLoadingTarget1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DynamicLoadingTarget1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/DynamicLoadingTarget1.dynamicLoading_CommonLibrary1.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicLoading_CommonLibrary1/DynamicLoadingTarget1.dynamicLoading_CommonLibrary1.iml" />
     </modules>
   </component>
 </project>

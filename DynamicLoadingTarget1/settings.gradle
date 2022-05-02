@@ -1,2 +1,2 @@
 include ':dynamicLoading_CommonLibrary1'
-include ':dynamicLoading_DynamicLoadingTarget1'
+include ':app'
