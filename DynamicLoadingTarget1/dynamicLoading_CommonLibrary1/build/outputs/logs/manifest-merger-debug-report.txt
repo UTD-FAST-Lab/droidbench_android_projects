@@ -1,43 +1,43 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:2:1-12:12
-INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:2:1-12:12
-INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:2:1-12:12
-INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:2:1-12:12
-INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:2:1-12:12
-INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:2:1-12:12
-INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:2:1-12:12
+ADDED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:2:1-12:12
 	package
-		ADDED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:3:5-31
-		INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
-		INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
+		ADDED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
+		INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
-		INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
+		ADDED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
+		INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
-		INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
+		ADDED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
+		INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:8:5-75
+ADDED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:8:5-75
 	android:name
-		ADDED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:8:22-72
+		ADDED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:8:22-72
 application
-ADDED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml:10:5-20
+ADDED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml:10:5-20
 uses-sdk
-INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
-INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
-INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
-INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
+INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
+INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
+INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
+INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
-		ADDED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
-		INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
+		INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
+		ADDED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
+		INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
-		ADDED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
-		INJECTED from D:\Local_androidTAEnvironment\droidbench_android_projects\DynamicLoadingTarget1\dynamicLoading_CommonLibrary1\src\main\AndroidManifest.xml
+		INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
+		ADDED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml
+		INJECTED from /Users/dakota/Desktop/Work stuff/FlakyStaticTools/tools_inputs/benchmarks/droidbench_android_projects/DynamicLoadingTarget1/dynamicLoading_CommonLibrary1/src/main/AndroidManifest.xml

@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "edu.mit.icc_service_messages"
-        minSdkVersion 14
+        minSdkVersion 19
     }
 
     buildTypes {

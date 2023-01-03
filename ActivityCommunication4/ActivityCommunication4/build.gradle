@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "edu.mit.icc_concat_action_string"
-        minSdkVersion 14
+        minSdkVersion 19
     }
 
     buildTypes {

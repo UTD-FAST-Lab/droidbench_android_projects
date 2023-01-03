@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "org.cert.WriteFile"
-        minSdkVersion 14
+        minSdkVersion 19
     }
 
     buildTypes {

@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "edu.mit.icc_non_constant_class_object"
-        minSdkVersion 14
+        minSdkVersion 19
     }
 
     buildTypes {
